@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 9 products, 7 sources, 4 libraries
+[debug] current source = Set(${BASE}/src/main/scala/TwoInputBolt.scala, ${BASE}/src/main/scala/MsgSpout.scala, ${BASE}/src/main/scala/FieldGrouping.scala, ${BASE}/src/main/scala/AllGrouping.scala, ${BASE}/src/main/scala/FieldSpout.scala, ${BASE}/src/main/scala/FieldBolt.scala, ${BASE}/src/main/scala/TickerSpout.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes
